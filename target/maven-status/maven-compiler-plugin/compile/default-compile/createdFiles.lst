@@ -1,0 +1,10 @@
+org\example\usermanagement\User\auth\AuthService.class
+org\example\usermanagement\User\controller\UserController.class
+org\example\usermanagement\User\domain\User.class
+org\example\usermanagement\User\auth\dtos\AuthLoginRequest.class
+org\example\usermanagement\User\auth\dtos\AuthResponse.class
+org\example\usermanagement\User\auth\dtos\AuthRegisterRequest.class
+org\example\usermanagement\User\auth\AuthController.class
+org\example\usermanagement\UserManagementApplication.class
+org\example\usermanagement\User\domain\UserService.class
+org\example\usermanagement\User\infrastructure\UserRepository.class

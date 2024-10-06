@@ -1,0 +1,5 @@
+# Created at 2024-10-05T23:23:07.431
+Boot Manifest-JAR contains absolute paths in classpath 'D:\CloudComputing\reserva-canchas\user-microservice\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
