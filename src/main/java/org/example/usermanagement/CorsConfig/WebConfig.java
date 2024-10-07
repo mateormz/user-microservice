@@ -1,4 +1,4 @@
-package org.example.usermanagement.CordConfig;
+package org.example.usermanagement.CorsConfig;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
